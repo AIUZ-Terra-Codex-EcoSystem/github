@@ -37,7 +37,7 @@ Terra Ecosystem implements **Fractal Metascience Paradigm (FMP)** through:
 
 ## 📞 Contact
 
-- **📧 Email**: a.a.abdukarimov@tutamail.com
+- **📧 Email**: a.abdukarimov@fractal-metascience.org
 - **🆔 ORCID**: [0009-0000-6394-4912](https://orcid.org/0009-0000-6394-4912)
 - **📍 Location**: Tashkent, Uzbekistan
 
@@ -45,4 +45,4 @@ Terra Ecosystem implements **Fractal Metascience Paradigm (FMP)** through:
 
 **🇺🇿 Built in Uzbekistan for the World**
 
-*Last updated: October 2025*
+*Last updated: March 2026*
