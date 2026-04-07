@@ -1,2 +1,2 @@
 ## UCOMM Convention
-Universal Communication Protocol Sync active.
+Universal Communication Protocol. Repository-to-repository sync active.
