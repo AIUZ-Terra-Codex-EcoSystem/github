@@ -1,48 +1,46 @@
-# рџЊЌ Terra Ecosystem
+# Terra Ecosystem
 
-**Fractal Metascience for Planetary Future**
+**Fractal Metascience for the Planetary Future**
 
-[![Theory](https://img.shields.io/badge/рџ“љ-Theory-blue)](https://github.com/AIUZ-Terra-Codex-EcoSystem/Nullo-PLT-FMP-Theory)
-[![Practice](https://img.shields.io/badge/рџ› пёЏ-Practice-green)](https://github.com/AIUZ-Terra-Codex-EcoSystem/AIUZ-Terra-Ecosystem)
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](LICENSE)
+[![Theory](https://img.shields.io/badge/Theory-Nullo--PLT--FMP--Theory-blue)](https://github.com/AIUZ-Terra-Codex-EcoSystem/Nullo-PLT-FMP-Theory)
+[![Practice](https://img.shields.io/badge/Practice-AIUZ--Terra--Ecosystem-green)](https://github.com/AIUZ-Terra-Codex-EcoSystem/AIUZ-Terra-Ecosystem)
+[![Legal](https://img.shields.io/badge/Legal-terra--legal-0f6b57)](https://github.com/AIUZ-Terra-Codex-EcoSystem/terra-legal)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0000--6394--4912-green)](https://orcid.org/0009-0000-6394-4912)
 
-## рџ“– What is Terra Ecosystem?
+## What is Terra Ecosystem?
 
-Terra Ecosystem implements **Fractal Metascience Paradigm (FMP)** through:
+Terra Ecosystem implements the **Fractal Metascience Paradigm (FMP)** through
+separated but linked repository layers:
 
-- **рџЋ“ Theory**: Nullo-PLT-FMP academic framework
-- **рџ› пёЏ Practice**: AIUZ Terra implementations 
-- **рџЊ± Projects**: Uzbek Mining, Fractal Silk Route, Millennium Solver
-- **рџЄ™ DAO**: Decentralized governance with UTIL/GOV/REP tokens
+- **Theory**: the Nullo-PLT-FMP academic framework
+- **Practice**: AIUZ Terra implementation branches
+- **Legal / Governance**: standards, validation, protocol, and donor files
+- **Organization Surface**: profile, coordination, and public guidance
 
-## рџ“‚ Our Repositories
+## Our repositories
 
 | Repository | Description |
 |------------|-------------|
-| [рџ“љ Nullo-PLT-FMP-Theory](https://github.com/AIUZ-Terra-Codex-EcoSystem/Nullo-PLT-FMP-Theory) | Theoretical foundations |
-| [рџ› пёЏ AIUZ-Terra-Ecosystem](https://github.com/AIUZ-Terra-Codex-EcoSystem/AIUZ-Terra-Ecosystem) | Practical implementations |
+| [`Nullo-PLT-FMP-Theory`](https://github.com/AIUZ-Terra-Codex-EcoSystem/Nullo-PLT-FMP-Theory) | Theoretical foundations |
+| [`AIUZ-Terra-Ecosystem`](https://github.com/AIUZ-Terra-Codex-EcoSystem/AIUZ-Terra-Ecosystem) | Practical implementation branch |
+| [`terra-legal`](https://github.com/AIUZ-Terra-Codex-EcoSystem/terra-legal) | Legal, governance, validation, and document donor layer |
+| [`github`](https://github.com/AIUZ-Terra-Codex-EcoSystem/github) | Organization profile and standards surface |
 
-## рџЋЇ Core Principles
+## Core principles
 
-1. **рџ”„ Self-Similarity**: Same patterns at all scales
-2. **в™»пёЏ Recursion**: Iterative knowledge building  
-3. **рџЊђ Cultural Integration**: Multi-perspective synthesis
+1. **Separation of layers**: theory, practice, legal, and profile surfaces
+   should not be collapsed into one folder story.
+2. **Detox before expansion**: remove entropy and false canon before adding new
+   wrapper text.
+3. **English-first public entry**: the main surface should remain readable in
+   English, with secondary translations allowed when useful.
 
-## рџ“Љ Statistics
+## Contact
 
-- **рџЋ“ Theory Documents**: 85+ academic papers
-- **рџ› пёЏ Components**: 129 practical implementations
-- **рџЊЌ Languages**: EN, RU, UZ + more
-- **рџ‘Ґ Contributors**: Open to all
-
-## рџ“ћ Contact
-
-- **рџ“§ Email**: a.abdukarimov@fractal-metascience.org
-- **рџ†” ORCID**: [0009-0000-6394-4912](https://orcid.org/0009-0000-6394-4912)
-- **рџ“Ќ Location**: Tashkent, Uzbekistan
+- **Email**: a.abdukarimov@fractal-metascience.org
+- **ORCID**: [0009-0000-6394-4912](https://orcid.org/0009-0000-6394-4912)
+- **Location**: Tashkent, Uzbekistan
 
 ---
 
-**рџ‡єрџ‡ї Built in Uzbekistan for the World**
-
-*Last updated: March 2026*
+**Built in Uzbekistan for the world**
