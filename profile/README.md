@@ -14,17 +14,19 @@ separated but linked repository layers:
 
 - **Theory**: the Nullo-PLT-FMP academic framework
 - **Practice**: AIUZ Terra implementation branches
+- **Publication**: release, DOI, citation, and dissemination surfaces
 - **Legal / Governance**: standards, validation, protocol, and donor files
+- **Design / Philosophy**: visual identity and living meaning bridges
 - **Organization Surface**: profile, coordination, and public guidance
 
-## Our repositories
+## Our layers
 
-| Repository | Description |
+| Layer | Repository | Description |
 |------------|-------------|
-| [`Nullo-PLT-FMP-Theory`](https://github.com/AIUZ-Terra-Codex-EcoSystem/Nullo-PLT-FMP-Theory) | Theoretical foundations |
-| [`AIUZ-Terra-Ecosystem`](https://github.com/AIUZ-Terra-Codex-EcoSystem/AIUZ-Terra-Ecosystem) | Practical implementation branch |
-| [`terra-legal`](https://github.com/AIUZ-Terra-Codex-EcoSystem/terra-legal) | Legal, governance, validation, and document donor layer |
-| [`github`](https://github.com/AIUZ-Terra-Codex-EcoSystem/github) | Organization profile and standards surface |
+| Theory | [`Nullo-PLT-FMP-Theory`](https://github.com/AIUZ-Terra-Codex-EcoSystem/Nullo-PLT-FMP-Theory) | Theoretical foundations |
+| Practice | [`AIUZ-Terra-Ecosystem`](https://github.com/AIUZ-Terra-Codex-EcoSystem/AIUZ-Terra-Ecosystem) | Practical implementation branch |
+| Governance | [`terra-legal`](https://github.com/AIUZ-Terra-Codex-EcoSystem/terra-legal) | Legal, validation, donor, template, and layer model repository |
+| Profile | [`github`](https://github.com/AIUZ-Terra-Codex-EcoSystem/github) | Organization profile and standards surface |
 
 ## Theory and practice are not the same layer
 
@@ -44,6 +46,7 @@ They should inherit:
 - governance from `terra-legal`;
 - bibliography and evidence discipline from the shared bibliography layer;
 - release and DOI workflow spine from the standard publication contour;
+- GitHub layer routing from the shared layer model;
 - English-first human entry rules from the profile layer.
 
 ## Core principles

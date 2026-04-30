@@ -24,22 +24,25 @@ It is meant to keep distinct layers distinct:
 It is not meant to collapse every archive, backup, and mixed drafting layer into
 one repository story.
 
-## Organization repositories
+## Organization layers
 
-| Repository | Role |
+| Layer | Repository | Role |
 |------------|------|
-| [`Nullo-PLT-FMP-Theory`](https://github.com/AIUZ-Terra-Codex-EcoSystem/Nullo-PLT-FMP-Theory) | Theoretical foundations of the Fractal Metascience Paradigm |
-| [`AIUZ-Terra-Ecosystem`](https://github.com/AIUZ-Terra-Codex-EcoSystem/AIUZ-Terra-Ecosystem) | Practice-facing implementation branch |
-| [`terra-legal`](https://github.com/AIUZ-Terra-Codex-EcoSystem/terra-legal) | Legal, governance, protocol, validation, and document-donor layer |
-| [`github`](https://github.com/AIUZ-Terra-Codex-EcoSystem/github) | Organization profile, community surface, and repository standards |
+| Theory | [`Nullo-PLT-FMP-Theory`](https://github.com/AIUZ-Terra-Codex-EcoSystem/Nullo-PLT-FMP-Theory) | Theoretical foundations of the Fractal Metascience Paradigm |
+| Practice | [`AIUZ-Terra-Ecosystem`](https://github.com/AIUZ-Terra-Codex-EcoSystem/AIUZ-Terra-Ecosystem) | Practice-facing implementation branch |
+| Governance / Donor | [`terra-legal`](https://github.com/AIUZ-Terra-Codex-EcoSystem/terra-legal) | Legal, governance, protocol, validation, layer model, and document-donor layer |
+| Profile surface | [`github`](https://github.com/AIUZ-Terra-Codex-EcoSystem/github) | Organization profile, community surface, and repository standards |
 
-## Fractal split
+## Layer logic
 
 The organization should keep these layers distinct:
 
 - theory repositories;
 - practice repositories;
+- publication repositories and DOI-facing sublayers;
 - legal and donor repositories;
+- design and philosophy bridges where they belong;
+- archive and machine layers without letting them dominate the public root;
 - organization profile surfaces;
 - template and standardization mechanisms.
 
@@ -55,6 +58,7 @@ That template logic should inherit:
 - governance from `terra-legal`;
 - publication and citation discipline from the shared bibliography layer;
 - release and DOI workflow spine from the standard publication contour;
+- layer routing from `GITHUB_LAYER_MODEL.md`;
 - English-first human entry rules from the profile surface.
 
 ## Reading path
