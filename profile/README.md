@@ -26,6 +26,26 @@ separated but linked repository layers:
 | [`terra-legal`](https://github.com/AIUZ-Terra-Codex-EcoSystem/terra-legal) | Legal, governance, validation, and document donor layer |
 | [`github`](https://github.com/AIUZ-Terra-Codex-EcoSystem/github) | Organization profile and standards surface |
 
+## Theory and practice are not the same layer
+
+This organization exists partly to stop that confusion.
+
+- Theory repositories define conceptual and analytical structure.
+- Practice repositories implement, demonstrate, translate, deploy, and test.
+- Legal repositories provide donor rules and protocols.
+- Profile surfaces orient people across the whole weave.
+
+## Template and donor logic
+
+New repositories should not be built from memory each time.
+
+They should inherit:
+
+- governance from `terra-legal`;
+- bibliography and evidence discipline from the shared bibliography layer;
+- release and DOI workflow spine from the standard publication contour;
+- English-first human entry rules from the profile layer.
+
 ## Core principles
 
 1. **Separation of layers**: theory, practice, legal, and profile surfaces

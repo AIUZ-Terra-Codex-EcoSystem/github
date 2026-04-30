@@ -33,6 +33,30 @@ one repository story.
 | [`terra-legal`](https://github.com/AIUZ-Terra-Codex-EcoSystem/terra-legal) | Legal, governance, protocol, validation, and document-donor layer |
 | [`github`](https://github.com/AIUZ-Terra-Codex-EcoSystem/github) | Organization profile, community surface, and repository standards |
 
+## Fractal split
+
+The organization should keep these layers distinct:
+
+- theory repositories;
+- practice repositories;
+- legal and donor repositories;
+- organization profile surfaces;
+- template and standardization mechanisms.
+
+The profile should help people move across these layers without collapsing them
+into one undifferentiated story.
+
+## Template rule
+
+The organization should expose one reusable template logic for new repositories.
+
+That template logic should inherit:
+
+- governance from `terra-legal`;
+- publication and citation discipline from the shared bibliography layer;
+- release and DOI workflow spine from the standard publication contour;
+- English-first human entry rules from the profile surface.
+
 ## Reading path
 
 If you are entering the organization as a human reader:
@@ -41,6 +65,7 @@ If you are entering the organization as a human reader:
 2. open [`profile/README.md`](./profile/README.md) for the profile-facing version
 3. then read `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`, `SECURITY.md`
 4. then move into the specific repository layer you actually need
+5. if you are creating a new repository, follow the donor and template rules instead of rebuilding the surface by hand
 
 ## Language policy
 
